@@ -1,4 +1,4 @@
-# 💳 Java ATM Console Application
+# 💳 ATM Simulation Java Application
 
 A simple console-based ATM simulation in Java that allows users to perform basic banking operations after PIN verification. Built using core Java concepts like classes, objects, conditionals, and loops — ideal for beginners.
 

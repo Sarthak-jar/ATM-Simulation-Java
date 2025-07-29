@@ -23,5 +23,4 @@ A simple console-based ATM simulation in Java that allows users to perform basic
 
 ---
 
-## 📁 Project Structure
 
